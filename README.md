@@ -39,3 +39,8 @@ We will work with two data files containing information about countries and citi
 - **Functionality**:
   - `cityPopulations`: Returns a map of city names to populations for a given country.
   - `aboveAverageCities`: Returns a list of city names with populations greater than the average in the specified country.
+
+## Application Objective
+
+- **Testing**: Complete the test suite named `ApplicationObjective`.
+- **Functionality**: Implement the `closestCity` method. This method takes a filename and a list of doubles (latitude and longitude) and returns a list containing the country code, city name, and region of the closest city to the input location.
